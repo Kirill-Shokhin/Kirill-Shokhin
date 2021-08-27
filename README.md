@@ -4,8 +4,8 @@
 Bash, SQL, Hadoop, Spark, Vowpal Wabbit, Docker, Latex, Cubase. 
 
 ### Python
-*   Numpy, Pandas, Seaborn, Matplotlib, Plotly, SymPy, SciPy, Statsmodels
-*   BeautifulSoup, telebot
+*   Numpy, Pandas, SymPy, SciPy, Statsmodels, BeautifulSoup, telebot
+*   Seaborn, Matplotlib, Plotly, PIL, OpenCV
 *   pyTorch, TSNE_CUDA, Scikit-learn, XGBoost, Catboost
 *   PostgreSQL, MongoDB, Flask, Celery.
 
