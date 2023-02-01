@@ -1,6 +1,22 @@
-Бакалавр факультета Физики <a href="https://www.hse.ru" >ВШЭ</a>. Со второго курса начал изучать Data Science. Прошел несколько открытых курсов, закрыл специализацию от Яндекса по <a href="https://github.com/Kirill-Shokhin/Coursera-Machine-Learning-and-Data-Analysis" >машинному обучению и анализу данных</a>. Продолжаю углубляться в науку с помощью более узких специализаций. 
+Hello! I am a computer vision engineer. 
 
-## 🛠 Навыки
+Researching, engineering and optimization of augmented reality pipelines, bringing them into real time mode is my main current activity and my hobby. I love everything about understanding the computer of our reality through imagery and using modern graphics accelerators to do that. 
+
+I have a strong physics and mathematics background, as well as an inner drive to extract the irrational grain from logical structures, refining the algorithm to a mathematically perfect limit. 
+My global goal is to acquire unique abilities in data and computational science.
+
+Tasks:
+- 2D pose Estimation
+- 2D-3D Human Pose Estimation
+- Object Detection
+- Instance/Semantic Segmentation
+- Face Identification, Emotion Recognition, Gaze Tracking, Engagement Detection
+- Image/Music Generation
+- Action Recognition
+- Object Tracking
+- Optical character recognition
+
+## 🛠 Skills
 Bash, SQL, Hadoop, Spark, Vowpal Wabbit, Docker, Latex, Cubase, TensorRT. 
 
 ### Python
