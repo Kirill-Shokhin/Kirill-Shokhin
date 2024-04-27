@@ -1,6 +1,6 @@
 Hello! I am a computer vision engineer.
 
-With three years of experience in data science and two years focused on deep learning, I've completed over five augmented reality projects and ranked in the top 100 in the international IDAO Olympiad. I've implemented more than 10 state-of-the-art neural networks and contributed to projects across 10 different areas of computer vision. Constantly researching new scientific articles, I am dedicated to staying at the forefront of technological advancements in the field.
+With four years of experience in data science and three years focused on deep learning, I've completed over five augmented reality projects and ranked in the top 100 in the international IDAO Olympiad. I've implemented more than 10 state-of-the-art neural networks and contributed to projects across 10 different areas of computer vision. Constantly researching new scientific articles, I am dedicated to staying at the forefront of technological advancements in the field.
 
 My primary focus lies in researching, engineering, and optimizing augmented reality pipelines for real-time performance.I am deeply passionate about understanding and enhancing the computer's perception of reality through imagery, utilizing modern graphics accelerators to achieve this goal.
 
